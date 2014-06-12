@@ -60,7 +60,7 @@ AUTHENTICATION_BACKENDS = (
     )
 
 #A donde va si todo sale bien
-SOCIAL_AUTH_LOGIN_REDIRECT_URL = '/'
+SOCIAL_AUTH_LOGIN_REDIRECT_URL = '/extra-data/'
 #A donde va si hay error
 SOCIAL_AUTH_LOGIN_URL = '/error/'
 #Utiliza el modelo que hemos creado nosotros en la app users
