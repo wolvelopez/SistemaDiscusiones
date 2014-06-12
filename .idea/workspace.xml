@@ -21,6 +21,7 @@
     <favorites_list name="SistemaDiscusiones" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
@@ -101,6 +102,8 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> parent of 8f32396... carga de la foto del avatar en facebook y twitter
 =======
 >>>>>>> parent of 8f32396... carga de la foto del avatar en facebook y twitter
   <component name="ProjectFrameBounds">
@@ -218,6 +221,7 @@
     <breakpoint-manager />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/apps/users/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -268,6 +272,8 @@
       </provider>
     </entry>
   </component>
+=======
+>>>>>>> parent of 8f32396... carga de la foto del avatar en facebook y twitter
 =======
 >>>>>>> parent of 8f32396... carga de la foto del avatar en facebook y twitter
 </project>
