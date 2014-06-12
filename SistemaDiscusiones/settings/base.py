@@ -69,7 +69,7 @@ SOCIAL_AUTH_USER_MODEL = 'users.User'
 SOCIAL_AUTH_FACEBOOK_SCOPE = ['email']
 
 #Utilizartemos pipelines para traer la foto de usuario
-SOCIAL_AUTH_PIPELINES = (
+SOCIAL_AUTH_PIPELINE = (
     'social.pipeline.social_auth.social_details',
     'social.pipeline.social_auth.social_uid',
     'social.pipeline.social_auth.auth_allowed',
